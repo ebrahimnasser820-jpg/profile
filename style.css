@@ -257,7 +257,7 @@ footer {
     scale: 1.2;
 }
 
-@media (max-width: 600px) {
+@media ( max-width: 600px) {
 
 
     header {
@@ -336,13 +336,14 @@ footer {
 
     .aboutmepar {
         font-size: 1.1rem;
-        width: 90.5%;
+        width: 297px;
         padding-left: 10px;
     }
 
     .projecttitle {
         display: flex;
         align-items: center;
+                margin-left: -45px;
         gap: 10px;
         width: 285px;
     }
@@ -364,6 +365,7 @@ footer {
     .works ul {
         flex-wrap: wrap;
         padding: 0px;
+                margin-left: -13px;
     }
 
     .works li {
