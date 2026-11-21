@@ -418,7 +418,8 @@ footer {
 
     }
     .projecttitle{
-        width: 297px;
+               width: 553px;
+        margin-left: -48px;
       display: flex;
       align-items: center;
       justify-content: center;
