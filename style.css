@@ -262,8 +262,8 @@ footer {
 
     header {
         display: flex;
-        justify-content: none;
-        gap: 50px;
+        justify-content: center ;
+        gap: 27px;
         margin-right: 5px;
         padding-left: 10px;
 
@@ -343,7 +343,7 @@ footer {
     .projecttitle {
         display: flex;
         align-items: center;
-                margin-left: -45px;
+                margin-left: -48px;
         gap: 10px;
         width: 285px;
     }
@@ -365,7 +365,7 @@ footer {
     .works ul {
         flex-wrap: wrap;
         padding: 0px;
-                margin-left: -13px;
+                margin-left: -20px;
     }
 
     .works li {
