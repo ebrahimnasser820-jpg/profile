@@ -1,9 +1,9 @@
-@media ( max-width: 600px) {
+@media (max-width: 600px) {
 
 
     header {
         display: flex;
-        justify-content: center ;
+        justify-content: center;
         gap: 27px;
         margin-right: 5px;
         padding-left: 10px;
@@ -42,6 +42,7 @@
         font-size: 2.8rem;
         color: #eeeeee;
     }
+
 
     .title {
         font-size: 1.7rem;
@@ -84,7 +85,7 @@
     .projecttitle {
         display: flex;
         align-items: center;
-                margin-left: -48px;
+        margin-left: -48px;
         gap: 10px;
         width: 285px;
     }
@@ -101,13 +102,13 @@
 
     .works {
         margin: 5rem -6rem;
-        width: 126%;
+        width: 123%;
     }
 
     .works ul {
         flex-wrap: wrap;
         padding: 0px;
-                margin-left: -20px;
+        margin-left: -20px;
     }
 
     .works li {
@@ -136,7 +137,8 @@
     .emailandphon {
         display: flex;
         margin-top: 20px;
-        padding-left: 25px;
+        padding-left: 89px;
+        width: 266px;
 
     }
 
@@ -147,52 +149,63 @@
         margin-left: 10px;
         margin-right: 20px;
     }
-    .herosub{
+
+    .herosub {
         padding-left: 10px;
     }
-    .heroimge{
-                padding-left: 10px;
+
+    .heroimge {
+        padding-left: 10px;
     }
-    .aboutMy{
-                padding-left: 10px;
+
+    .aboutMy {
+        padding-left: 10px;
 
     }
-    .hero{
+
+    .hero {
         display: flex;
         flex-wrap: wrap;
     }
-    .aboutMy{
+
+    .aboutMy {
         display: flex;
         flex-wrap: wrap;
     }
-    .projecttitle{
-               width: 553px;
+
+    .projecttitle {
+        width: 553px;
         margin-left: -48px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
-        .works ul {
+
+    .works ul {
         flex-wrap: wrap;
         padding: 0px;
     }
-    .works li {
-    margin-top: 28px;
-    margin-left: 20%;
-    }
-    .contanerdiv{
-        gap: 20px;
-                padding-left: 10px;
 
+    .works li {
+        margin-top: 28px;
+        margin-left: 20%;
+    }
+
+    .contanerdiv {
+        gap: 20px;
+        padding-left: 10px;
+
+    }
 }
-}
-@media (min-width: 699px) and (max-width: 721px){
-    .works ul{
+/*=================tablite=========*/
+@media (min-width: 699px) and (max-width: 721px) {
+    .works ul {
         text-align: center;
     }
-.contanerdiv{
-        gap: 20px;
-                padding-left: 10px;
 
-}
+    .contanerdiv {
+        gap: 20px;
+        padding-left: 10px;
+
+    }
 }
