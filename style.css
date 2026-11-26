@@ -83,7 +83,9 @@
         align-items: center;
         color: #eeeeee;
         text-decoration: none;
-
+    }
+    .herocv:hover{
+        color: #00adb5;
     }
 
     .heroBtns {
@@ -92,6 +94,7 @@
     }
 
     .herome {
+        cursor: context-menu;
         background-color: #00adb5;
         color: #eeeeee;
         border-radius: 24px;
